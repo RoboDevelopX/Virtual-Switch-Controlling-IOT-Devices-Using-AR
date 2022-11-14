@@ -1,5 +1,4 @@
 # Virtual-Switch-Controlling-IoT-Devices-Using-AR
-Final Year Project (BSc (Hons) Computer Science)
 
 ### Description
 Controlling electronic switches (such as light) virtually from smartphone with interactive AR switches.
